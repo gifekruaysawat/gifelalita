@@ -18,7 +18,7 @@ if (!is_null($events['events'])) {
 				// Build message to reply back
 				$messages = [
 					'type' => 'text',
-					'text' => 'สวัสดีครัชช'
+					'text' => 'สวัสดีค๊า'
 				];
 			}
 			else if($text == 'test'){
